@@ -1,4 +1,4 @@
-TOOL_NAME = test
+TOOL_NAME = ipecho
 
 GNUSTEP_MAKEFILES = /usr/share/GNUstep/Makefiles
 $(TOOL_NAME)_OBJC_FILES = main.m
